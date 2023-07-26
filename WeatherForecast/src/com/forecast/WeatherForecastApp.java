@@ -15,7 +15,7 @@ public class WeatherForecastApp {
         String city = scanner.nextLine();
 
         try {
-            String apiKey = "3c2fadbae0fff56750a80b2098189688";
+            String apiKey = "Your Api Id";
             String apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey;
 
             URL url = new URL(apiUrl);
