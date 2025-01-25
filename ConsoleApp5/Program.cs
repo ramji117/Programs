@@ -16,9 +16,12 @@ namespace ConsoleApp5
         {
             
             Console.WriteLine("Application Uisng Git");
-
+            Console.WriteLine(number);  
+        
         }
     }
+
+
 }
 
 
