@@ -16,6 +16,7 @@ namespace ConsoleApp5
         {
             
             Console.WriteLine(2);
+            Console.WriteLine(number);
         
         }
     }
