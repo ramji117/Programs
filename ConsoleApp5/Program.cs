@@ -15,8 +15,7 @@ namespace ConsoleApp5
         public static void Print(int number)
         {
             
-            Console.WriteLine("Application Uisng Git");
-            Console.WriteLine(number);  
+            Console.WriteLine(2);
         
         }
     }
