@@ -9,10 +9,5 @@ jobs:
         - name: print build
           run: echo 'build' 
       
-   test:
-     runs-on: windows-latest
-     
-   
-   deploy:
-     runs-on: ubuntu-latest
+  
      
